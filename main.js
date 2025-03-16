@@ -1,5 +1,3 @@
-alert(`hai sebelum nya terimakasih atas undangan nya untuk saya dapat ke acara spesial kamu, ada barang dan ucapan virtual yang sederhana untuk kamu `)
-
 let nama = prompt("sebelum nya masukan nama anda terlebih dahulu");
 let umur = prompt("berapa umur anda sekarang ?");
 alert(`hai ${nama} selamat ulang tahun yang ke-${umur} 🥳`)
